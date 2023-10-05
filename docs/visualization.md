@@ -1,6 +1,6 @@
 # Visualizing Sadie Annotation in GenBank Format
 
-After generating Annotations using BLAST implemented in Sadie as AIrr or with HMMER, implemented as Renumbering, you can convert the annotations as features in a Genbank formatted file and then visualize them using your favorite gene browser like Genious. This tutorial shows how you can convert your annotations to GenBank. You can also test it out in a [Collab Notebook](https://colab.research.google.com/github/kipkurui/sadie/blob/genbank_notebook/notebooks/airr_c/GenBank_Annotation.ipynb).
+After generating Annotations using BLAST implemented in Sadie as AIrr or with HMMER, implemented as Renumbering, you can convert the annotations as features in a Genbank formatted file and then visualize them using your favorite gene browser like Genious. This tutorial shows how you can convert your annotations to GenBank. You can also test it out in a [Collab Notebook](https://colab.research.google.com/github/jwillis0720/sadie/blob/main/notebooks/airr_c/GenBank_Annotation.ipynb).
 
 ## Renumberring HMM
 The renumbering module in Sadie uses HMMER to annotate the antibody sequences.
